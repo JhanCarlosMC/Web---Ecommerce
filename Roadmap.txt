@@ -1,0 +1,44 @@
+------------------------------------------------Roadmap Para el Desarrolo del SitioWeb Ecommerce----------------------------------------
+
+1.Analizar el proyecto y sus puntos clave.
+	-Leer con enunciado y comprenderlo
+	-Señalar las partes importantes del enunciado
+
+2.Planear estructura del proyecto.
+	-Definir estructura de carpetas
+	-Crear de archivos HTML,CSS y JS base
+	-Conectar archivos HTML,CSS y JS
+	-Conectar con git y github
+
+3.Diseñar interfaces
+	-Crear borradores, mockups, wireframes, etc. Segun las especificaciones dadas.
+
+4.Pagina de Bienvenida
+	-Crear el contenido HTML segun lo diseñado en los mockups
+		->(Informacion relevante de la tienda, nombre, eslogan, breve descripcion).
+	-Aplicar estilos CSS
+		->Realizar estudio de mercado
+		->Estilos responsive
+	-Crear funcionalidades JS
+
+5.Pagina de Compra de Productos
+	-Crear el contenido HTML segun lo diseñado en los mockups
+		->(Lista de productos disponibles, Carrito de compras).
+	-Aplicar estilos CSS
+		->Realizar estudio de mercado
+		->Estilos responsive
+	-Crear funcionalidades JS
+		->Opcion de agregar producto al carrito de compras
+		->Funcionalidad de eliminar producto del carrito de compras
+		->Boton de comprar para almacenar la informacion en el LocalStorage
+
+6.Pagina de Administracion de Productos (Accesible solo para administradores)
+	-Crear el contenido HTML segun lo diseñado en los mockups
+		->(Formulario para agregar productos, lista de productos existentes).
+	-Aplicar estilos CSS
+		->Realizar estudio de mercado
+		->Estilos responsive
+	-Crear funcionalidades JS
+		->Agregar productos desde la informacion del formulario
+		->Funcionalidad para editar los productos y actualizar la informacion en el localstorage
+		->Funcionalidad para eliminar los productos y borrar el producto en el localstorage
